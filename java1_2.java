@@ -4,7 +4,7 @@ public class java1_2 {
         double english = 66;
         double dbms = 55;
         double total = maths + english + dbms;
-        double f = total/100*300;
+        double f = total/300*100;
         System.out.println(f);
     }
 }
